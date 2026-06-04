@@ -13,7 +13,7 @@ An AI-powered chatbot that lets you upload any PDF and ask questions about it
 in natural language. Built using Retrieval-Augmented Generation (RAG) — the 
 same architecture used in enterprise AI products.
 
-![App Demo](POAICB.png)
+
 
 ---
 
@@ -117,4 +117,4 @@ rag-chatbot/
 
 ## Author
 
-**Your Name** · [LinkedIn](https://linkedin.com/in/nikhil-samantray) · [GitHub](https://github.com/NIXX-GH)
+**Nikhil Samantray** · [LinkedIn](https://linkedin.com/in/nikhil-samantray) · [GitHub](https://github.com/NIXX-GH)
